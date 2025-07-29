@@ -18,6 +18,9 @@ const toAlternatingCaps = (str) => {
     .join("");
 };
 
+app.get('/',(req,res)=>{
+    res.send("Welcome to the BFHL API!")
+})
 app.post("/bfhl", (req, res) => {
   try {
     const { data } = req.body;
