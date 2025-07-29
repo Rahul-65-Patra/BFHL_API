@@ -25,9 +25,9 @@ Build and host a POST API at the `/bfhl` route that accepts an array of strings 
 
 | Component     | Details         |
 |---------------|-----------------|
-| Language      | Node.js |
+| Language      | Node.js         |
 | Framework     | Express.js      |
-| Hosting       | Vercel |
+| Hosting       | Vercel          |
 | Source Control| https://github.com/Rahul-65-Patra/BFHL_API.git|
 
 ---
