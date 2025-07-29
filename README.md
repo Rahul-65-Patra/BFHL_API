@@ -1,6 +1,6 @@
 # 🚀 BFHL API Project
 
-A RESTful POST API developed using Node.js & Express.js to process input data and categorize elements into numbers, alphabets, and special characters, as per the **Chitkara Full Stack Assessment**.
+A RESTful POST API developed using Node.js & Express.js to process input data and categorize elements into numbers, alphabets, and special characters, as per the **Full Stack Assessment**.
 
 ---
 
@@ -25,17 +25,21 @@ Build and host a POST API at the `/bfhl` route that accepts an array of strings 
 
 | Component     | Details         |
 |---------------|-----------------|
-| Language       | Node.js |
-| Framework      | Express.js      |
-| Hosting        | Vercel |
-| Source Control | GitHub (Public Repo) |
+| Language      | Node.js |
+| Framework     | Express.js      |
+| Hosting       | Vercel |
+| Source Control| https://github.com/Rahul-65-Patra/BFHL_API.git|
 
 ---
+
+## 🔗 Live Preview
+
+You can view the live preview of the project : [🚀 Live Demo](https://bfhl-api-kappa.vercel.app/)
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/bfhl-api.git
-cd bfhl-api
+git clone https://github.com/<your-username>/BFHL_API.git
+cd BFHL_API
 npm install
 node index.js
